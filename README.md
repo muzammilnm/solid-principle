@@ -229,4 +229,4 @@ By applying the SOLID principles, developers can create systems that are more ma
 
 ## Learn More
 
-For detailed explanations and articles on software development, design principles, and best practices, feel free to visit my [dev.to solid principles](https://dev.to/muzammilnm).
+For detailed explanations and articles on software development, design principles, and best practices, feel free to visit my [dev.to/muzammilnm](https://dev.to/muzammilnm).
